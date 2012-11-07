@@ -1,0 +1,2 @@
+# This is comment
+sample.war,deploy,"deploy simple.war"
